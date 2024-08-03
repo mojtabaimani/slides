@@ -6,6 +6,7 @@ on:
     branches: [main]
     paths:
       - 'persian-snacks/**'
+      - '.github/workflows/persian-snacks.yaml'
 
 permissions:
   contents: read

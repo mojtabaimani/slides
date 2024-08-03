@@ -34,7 +34,7 @@ jobs:
         run: cd persian-snacks && nci
 
       - name: Build
-        run: cd persian-snacks && nr build --base /${{github.event.repository.name}}/
+        run: cd persian-snacks && nr build --base /slides/persian-snacks/
 
       - name: Setup Pages
         uses: actions/configure-pages@v4

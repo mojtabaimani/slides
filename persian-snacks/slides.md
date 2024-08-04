@@ -30,7 +30,7 @@ Discover the rich history and culture of Iran through its traditional snacks.
 
 ---
 # Sunflower Seeds
-class: text-center
+class: text-left
 ---
 
 # Sunflower Seeds
@@ -44,7 +44,10 @@ class: text-center
   </div>
 </div>
 
-Sunflower seeds are a popular snack in Iran, often enjoyed while socializing with friends and family.
+- Sunflower seeds are a popular snack in Iran, often enjoyed while socializing with friends and family.
+- [Series Noon Kheh S01-E07](https://www.youtube.com/watch?v=kycYykIRwj4&t=60s)
+- Rich in vitamin E and antioxidants, supporting healthy skin, boosting immune function, and promoting heart health.
+- [13 Health Benefits of Sunflower Seeds](https://pharmeasy.in/blog/health-benefits-of-sunflower-seeds/)
 
 ---
 

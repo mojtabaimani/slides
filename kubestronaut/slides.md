@@ -25,13 +25,6 @@ Learn about the CNCF certificates, especially CKS.
 4. Kubernetes and Cloud Native Associate (KCNA) (multiple choice exam)
 5. Kubernetes Certified Service Provider (KCSP) (multiple choice exam)
 ![all-certs](./images/all-certificates.jpg)
-<div style="font-size: 0.8em;">
-- CKA: 85, needed: 66<br>
-- CKAD: 95, needed: 66<br>
-- CKS: 68, needed: 67  (first try: 61)<br>
-- KCNA: 86, needed: 75<br>
-- KCSA: 82, needed: 75
-</div>
 
 ---
 
@@ -101,8 +94,18 @@ k delete pod nginx $now
 
 - One year registration validity
 - Two attempts allowed
-- Minimum score requirements
-- My scores: [Your Scores Here]
+- Minimum score requirements and my scores
+
+<div style="font-size: 0.8em;">
+
+  | Exam | Score | Needed |
+  |------|-------|--------|
+  | CKA  | 85    | 66     |
+  | CKAD | 95    | 66     |
+  | CKS  | 68    | 67     |
+  | KCNA | 86    | 75     |
+  | KCSA | 82    | 75     |
+</div>
 
 ---
 
